@@ -1,7 +1,4 @@
 module.exports = ({ env }) => ({
-  "file-system": {
-    enabled: true,
-  },
   upload: {
     config: {
       provider: "cloudinary",
